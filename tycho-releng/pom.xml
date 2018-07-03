@@ -12,7 +12,7 @@
 	<parent>
 		<artifactId>tycho</artifactId>
 		<groupId>org.eclipse.tycho</groupId>
-		<version>1.2.0</version>
+		<version>1.2.0.1</version>
 	</parent>
 
 	<artifactId>tycho-releng</artifactId>
